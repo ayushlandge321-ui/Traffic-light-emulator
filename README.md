@@ -265,7 +265,7 @@ Other mobile touches:
 
 ## 8. How to run
 
-1. Save `traffic-light-emulator.html` anywhere.
+1. Save `index.html` anywhere.
 2. Double-click it to open in a browser. No server is needed.
 3. Click the signal or the "Open the emulator" button.
 4. Press **Run**. Watch the lines highlight, the lamps change and the terminal print.
